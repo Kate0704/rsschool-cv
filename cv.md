@@ -1,6 +1,8 @@
 # **Resume**
 
-### **Katsiaryna Zhevniak**
+
+## ***Katsiaryna Zhevniak***
+
 
 1. **Contact info:** starlet7@tut.by
 
@@ -10,7 +12,6 @@
     - Learn about the different computer hardware architectures.
     - Learn at least one *advanced modeling technique* such as UML or ORM.
     - Learn the *technologies and programming languages* related to the programming field of my choice. 
-    - Stay happy and free.
     
 3. **Skills:** have certain skills in programming using C, C++, C# and Fasm languages, have learned main data structures, have got acquainted with Xaml language and written a project on Xamarin Forms.
 
